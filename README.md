@@ -42,9 +42,6 @@ Middle Call during FMR
 Middle Call during Phase 1
 FMR ending after a single Draw
 
-See the full examples here:
-EXAMPLES.md
-
 Version History
 All updates and revisions to the ruleset are documented here:
 VERSION_HISTORY.md
